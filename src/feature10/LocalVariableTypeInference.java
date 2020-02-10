@@ -1,6 +1,5 @@
 package feature10;
 
-
 import java.util.Arrays;
 
 public class LocalVariableTypeInference {
